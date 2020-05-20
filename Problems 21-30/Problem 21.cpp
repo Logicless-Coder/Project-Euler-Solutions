@@ -27,7 +27,6 @@ int main() {
                 ans += i;
                 seen.emplace_back(i);
             }
-            cout << i << " " << j << endl;
         }
     }
 
